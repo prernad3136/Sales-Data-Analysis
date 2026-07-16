@@ -37,7 +37,3 @@ This project is an interactive Excel dashboard developed to analyze sales perfor
 - Average Sales: $228.23
 - Profit Margin: 12.22%
 - Peak Month: November
-
-## Dashboard
-
-(Add your dashboard screenshot here later.)
